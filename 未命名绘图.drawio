@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T13:09:27.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="21.2.3" etag="jLDAJFLpVNN7h_PjRreM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T13:27:16.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ydSygsDM9orPB59peXSZ" version="21.2.3" type="github">
   <diagram name="第 1 页" id="lkClhU2IyVFKXnoEFH0R">
-    <mxGraphModel>
+    <mxGraphModel dx="1134" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-1" target="NUNKKDaflO0sHVR_fXIK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;源代码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-2" target="NUNKKDaflO0sHVR_fXIK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-2" target="NUNKKDaflO0sHVR_fXIK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提取目标密码及对应的上下文&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-4" target="NUNKKDaflO0sHVR_fXIK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;密码字符串&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-6" target="NUNKKDaflO0sHVR_fXIK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-6" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-8" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-10" target="NUNKKDaflO0sHVR_fXIK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;密码上下文代码&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-12" target="NUNKKDaflO0sHVR_fXIK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;密码模型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-14" target="NUNKKDaflO0sHVR_fXIK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上下文模型&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-16" target="NUNKKDaflO0sHVR_fXIK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-16" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-18" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-21" target="NUNKKDaflO0sHVR_fXIK-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-21" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-25" target="NUNKKDaflO0sHVR_fXIK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-25" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-27" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-34" target="NUNKKDaflO0sHVR_fXIK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型聚合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;泄露的密码&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-41" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-42" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-43" value="预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-44" value="预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-48" target="NUNKKDaflO0sHVR_fXIK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;从密码数据集种随机选择的密码&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUNKKDaflO0sHVR_fXIK-50" target="NUNKKDaflO0sHVR_fXIK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;从上下文代码判断是否为密码的标注数据&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-51" value="训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUNKKDaflO0sHVR_fXIK-53" value="训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
